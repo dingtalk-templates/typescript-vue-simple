@@ -12,5 +12,7 @@ export default {
       dingtalk:true
     }
   },
-  template: '<div v-if="dingtalk">12345</div>'
+  template: `
+    <div v-if="dingtalk">12345</div>
+  `
 } as ComponentOptions<Home>

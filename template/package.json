@@ -35,6 +35,6 @@
     "@types/vue": "^2.0.0",
     "vue": "^2.3.4",
     "dingtalk-javascript-sdk": "^0.1.5",
-    "dingtalk-javascript-utility": "^0.1.5",
+    "dingtalk-javascript-utility": "^0.1.6",
   }
 }

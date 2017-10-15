@@ -1,4 +1,4 @@
-import dingtalk from 'weex-dingtalk';
+import dingtalk from 'dingtalk-javascript-sdk';
 
 let UA:string = window.navigator.userAgent.toLocaleLowerCase();
 
